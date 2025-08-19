@@ -3,7 +3,7 @@
 Este é um projeto simples de **Amigo Secreto** desenvolvido com **HTML, CSS e JavaScript**.  
 O objetivo é permitir que os usuários adicionem nomes a uma lista e, em seguida, realizem o sorteio de forma dinâmica e prática.
 
-💡 O projeto foi criado com a finalidade de **fortalecer a lógica de programação em JavaScript**, por meio da prática com arrays, manipulação de DOM e funções.
+💡 O projeto foi criado com a finalidade de **fortalecer a lógica de programação em JavaScript**, por meio da prática com arrays, manipulação de DOM, condicionais e funções.
 
 ---
 
@@ -54,17 +54,6 @@ Os nomes adicionados aparecerão em uma lista abaixo.
 3. Realizar Sorteio
 
 Clique no botão "Sortear" e veja quem foi o amigo secreto de cada participante.
-
-
-🔧 Possíveis Melhorias
-
-Permitir salvar a lista em um arquivo
-
-Compartilhar os resultados por e-mail
-
-Implementar modo escuro (dark mode)
-
-Adicionar restrições para evitar que alguém tire a si mesmo
 
 👨‍💻 Autor
 
