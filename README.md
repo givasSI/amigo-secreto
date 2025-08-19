@@ -67,4 +67,4 @@ Adicionar restrições para evitar que alguém tire a si mesmo
 👨‍💻 Autor
 
 Desenvolvido por Giovani Manoel da Silva.
-📌 LinkedIn
+📌 [LinkedIn](https://www.linkedin.com/in/giovani-manoel)
