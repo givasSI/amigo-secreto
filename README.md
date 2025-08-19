@@ -3,6 +3,8 @@
 Este é um projeto simples de **Amigo Secreto** desenvolvido com **HTML, CSS e JavaScript**.  
 O objetivo é permitir que os usuários adicionem nomes a uma lista e, em seguida, realizem o sorteio de forma dinâmica e prática.
 
+💡 O projeto foi criado com a finalidade de **fortalecer a lógica de programação em JavaScript**, por meio da prática com arrays, manipulação de DOM e funções.
+
 ---
 
 ## 🚀 Funcionalidades
